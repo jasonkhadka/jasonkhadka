@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @jasonkhadka
-- 👀 I’m interested in AI Research
-- 💞️ I’m looking to collaborate on open source projects on AI/ML and tools surrounding it.
-- 📫 How to reach me on my email jasonkhadka33@gmail.com
+- 👋 Hi,
+- AI Researcher
 
 <!---
 jasonkhadka/jasonkhadka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
